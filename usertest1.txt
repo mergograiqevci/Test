@@ -1,10 +1,12 @@
 {
    "users":[
       {
-         "androidID":"275a6e3907c8ad0f"
+         "androidID":"275a6e3907c8ad0f",
+         "channelM3U":"https://raw.githubusercontent.com/mergograiqevci/Test/master/wq.txt"
       },
       {
-         "androidID":"272a6e3907c8ad0f"
+         "androidID":"235a6e3907c8ad0f",
+         "channelM3U":"https://raw.githubusercontent.com/mergograiqevci/Test/master/wq.txt"
       }
    ]
 }
