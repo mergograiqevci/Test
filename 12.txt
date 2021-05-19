@@ -1,0 +1,54 @@
+{
+   "devices":[
+      {
+         "androidID":"275a6e3907c8ad0f",
+         "status":0,
+         "message":{
+            "type":"modal",
+            "closable":"false",
+            "content":"Thank you for installing LiteOTT Player.Please visit https://liteott.app to upload your M3U8 playlist.Your device ID is: [ANDROID_DEVICE_ID]"
+         }
+      },
+      {
+         "androidID":"272a6e3907c8ad0f12",
+         "status":1,
+         "expires_on":"YYYY-MM-DD HH:MM:SS",
+         "message":{
+            "type":"toast",
+            "content":"Welcome back!"
+         },
+         "m3u8_content":{
+            "url1":"http://example.com/samplelist1.m3u8",
+            "url2":"http://example.com/samplelist2.m3u8"
+         }
+      },
+      {
+         "androidID":"272a6e3907c8ad0f122",
+         "status":2,
+         "expires_on":"YYYY-MM-DD HH:MM:SS",
+         "message":{
+            "type":"modal",
+            "closable":"false",
+            "content":"Subscription expired, please re-subscribe."
+         }
+      },
+      {
+         "androidID":"272a6e3907c8ad0f123",
+         "status":3,
+         "expires_on":"YYYY-MM-DD HH:MM:SS",
+         "m3u8_content":{
+            "url1":"http://example.com/samplelist1.m3u8",
+            "url2":"http://example.com/samplelist2.m3u8"
+         }
+      },
+      {
+         "androidID":"272a6e3907c8ad0f213",
+         "status":4,
+         "message":{
+            "type":"modal",
+            "closable":"false",
+            "content":"There was an issue with your device. Please contact support."
+         }
+      }
+   ]
+}
