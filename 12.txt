@@ -39,6 +39,11 @@
          "m3u8_content":{
             "url1":"http://example.com/samplelist1.m3u8",
             "url2":"http://example.com/samplelist2.m3u8"
+         },
+         "message":{
+            "type":"toast",
+            "closable":"true",
+            "content":" Days left"
          }
       },
       {
