@@ -37,8 +37,8 @@
          "status":3,
          "expires_on":"2021-05-28 13:44:30.000",
          "m3u8_content":{
-            "url1":"https://raw.githubusercontent.com/mergograiqevci/Test/master/json.m3u",
-            "url2":"https://iptvmate.net/files/24042021/countries/al.m3u"
+            "url1":"https://iptvmate.net/files/25032021/united_kingdom.m3u",
+            "url2":"https://iptvmate.net/files/25032021/united_kingdom.m3u"
          },
          "message":{
             "type":"toast",
