@@ -1,5 +1,5 @@
 {
-   "androidID":"275a6e3907c8ad0f",
-   "status":0,
-   "name":"Mergim Graiqevci"
+   "name":"Mergim Graiqevci",
+   "img":"https://images.pexels.com/photos/3987114/pexels-photo-3987114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+   "year":2021
 }
