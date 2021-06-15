@@ -1,37 +1,5 @@
-[
-   {
-      "name":"Intel i5",
-      "img":"i1.wp.com/images.idgesg.net/images/article/2019/05/dscf0453_final-100797561-large.3x2.jpg?ssl=1",
-      "year":2021
-   },
-   {
-      "name":"Intel i7",
-      "img":"http://cdn.mos.cms.futurecdn.net/jU8HAQWqxPMgH3g6qSbA5.jpg",
-      "year":2013
-   },
-   {
-      "name":"Intel i10",
-      "img":"https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-16..1598476026.jpg",
-      "year":2015
-   },
-   {
-      "name":"Computer 2020",
-      "img":"https://media.gcflearnfree.org/content/55e0730c7dd48174331f5164_01_17_2014/whatisacomputer_mac.jpg",
-      "year":2021
-   },
-   {
-      "name":"Laptop Gaming",
-      "img":"https://img.choice.com.au/-/media/c538707e480345559a29558b2f8509b6.ashx",
-      "year":2013
-   },
-   {
-      "name":"Laptop Dell",
-      "img":"https://static.frame.work/pttnfnm54ipt03wzyqhzlwfk4f6t",
-      "year":2015
-   },
-   {
-      "name":"Fujistu",
-      "img":"https://pcloft.com/wp-content/uploads/2020/12/Best-Laptop-for-Gaming-And-Everyday-Use.jpg",
-      "year":23021
-   }
-]
+{
+   "name":"Intel i5",
+   "img":"i1.wp.com/images.idgesg.net/images/article/2019/05/dscf0453_final-100797561-large.3x2.jpg?ssl=1",
+   "year":2021
+}
