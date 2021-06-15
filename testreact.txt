@@ -1,7 +1,7 @@
 [
    {
       "name":"Intel i5",
-      "img":"s://i1.wp.com/images.idgesg.net/images/article/2019/05/dscf0453_final-100797561-large.3x2.jpg?ssl=1",
+      "img":"i1.wp.com/images.idgesg.net/images/article/2019/05/dscf0453_final-100797561-large.3x2.jpg?ssl=1",
       "year":2021
    },
    {
